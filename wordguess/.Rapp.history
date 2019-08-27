@@ -1,0 +1,7 @@
+source("v.R")#
+source("word.R")#
+#type in guess(v,1) to start#
+#default maximum times for is 6#
+#if you want to lower the difficulty#
+#type guess(v,0) and you will have 8 times to guess!#
+guess(v,1)
